@@ -1,3 +1,12 @@
 .articles{
     margin: 4% 2%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 97%;
+    max-width: 100%;
+}
+
+.articles__others{
+    margin-left: 2%;
 }

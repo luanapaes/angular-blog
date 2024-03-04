@@ -1,5 +1,5 @@
 .big__card--container{
-    width: 50%;
+    width: 100%;
 }
 
 .big__card--picture img{
@@ -9,7 +9,7 @@
 }
 
 .big__card--description{
-    width: 100%;
+    width: 95%;
     height: 200px;
     max-height: 300px;
     display: flex;
