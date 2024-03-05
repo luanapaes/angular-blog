@@ -1,0 +1,5 @@
+@media only screen and (max-width: 1016px) {
+    .big__card--picture img {
+        max-width: 250px;
+    }
+}

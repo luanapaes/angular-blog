@@ -49,3 +49,7 @@
 .line > hr{
     border: 1px solid rgba(255, 255, 255, 0.082);
 }
+
+.hr__top{
+    display: none;
+}

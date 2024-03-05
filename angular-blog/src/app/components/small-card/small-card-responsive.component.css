@@ -1,0 +1,19 @@
+@media only screen and (max-width: 1016px) {
+    .small__card--container {
+        width: 100%;
+    }
+
+    .small__card--container__flex{
+        flex-direction: row-reverse;
+    }
+
+    .small__card--description {
+        max-width: 100%;
+        padding-left: 0;
+    }
+
+    .hr__top{
+        display: block;
+        margin-bottom: 15px;
+    }
+}
